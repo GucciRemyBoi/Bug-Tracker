@@ -14,7 +14,7 @@ This function will assign an id to a bug that's registered. There will be 3 opti
 **Create a New Bug**
 
 This part will ask for a name from the developer, and create a new Json file with an id number to it.
-- Each file will begin as 0, and will increase by 1.  For example, lets say William encountered his  2nd bug and adds it to the lists of things needed to do, he will run the program fill out the prompts and the file name will be "bug-1.json"
+- Each file will begin as 0, and will increase by 1.  For example, lets say William encountered his  2nd bug and adds it to the lists of things needed to do, he will run the program fill out the prompts and the file name will be "bug-1.json". Also, if there is no folder to store the Json files the Python program will make one and label it as "bugs".
 
 ![image](https://github.com/GucciRemyBoi/Bug-Tracker/assets/40637569/68552d97-214d-47e3-8d49-6dfd20e5d7d4)
 
