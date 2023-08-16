@@ -3,6 +3,7 @@ Purpose: To help developers keep track the amount of bugs that is encountered in
 - Change the status of a bug
 
 **Main Function**
+
 This function will assign an id to a bug that's registered. There will be 3 options that the user will be able to do including:
 - Create a new bug
 - Change the status of a bug
@@ -11,6 +12,7 @@ This function will assign an id to a bug that's registered. There will be 3 opti
 ![image](https://github.com/GucciRemyBoi/Bug-Tracker/assets/40637569/9500505c-e9d2-4642-b650-487d4b7c8c06)
 
 **Create a New Bug**
+
 This part will ask for a name from the developer, and create a new Json file with an id number to it.
 - Each file will begin as 0, and will increase by 1.  For example, lets say William encountered his  2nd bug and adds it to the lists of things needed to do, he will run the program fill out the prompts and the file name will be "bug-1.json"
 
@@ -31,6 +33,7 @@ Once the information is filled out, the Json file will look like this:
 ![image](https://github.com/GucciRemyBoi/Bug-Tracker/assets/40637569/df13bb0f-bf86-433f-92d9-00190ac2a2f3)
 
 **Change Status of a Bug**
+
 This function will take info about the bug and change the status of it as well. It will also display an update time of the bug as well so other developers know when the last time someone updated the bug status. It will look this this menu wise:
 
 ![image](https://github.com/GucciRemyBoi/Bug-Tracker/assets/40637569/b4647f9d-9c79-496d-94eb-038383f73993)
