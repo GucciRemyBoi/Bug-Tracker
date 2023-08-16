@@ -39,7 +39,7 @@ def updateStatus(bugID, newStatus):
         bugData["Last Updated"] = datetime.now(pytz.timezone('US/Pacific'))
         with open(getFileName(bugID), "w") as f:
             json.dump(bugData, f, indent=4, default=str)
-        print("Bug status updated.")
+        print("Bug status updated.\n")
     else:
         print("Bug not found.")
 
