@@ -7,7 +7,7 @@ This function will assign an id to a bug that's registered. There will be 3 opti
 - Create a new bug
 - Change the status of a bug
 - Exit Program
-- 
+
 ![image](https://github.com/GucciRemyBoi/Bug-Tracker/assets/40637569/9500505c-e9d2-4642-b650-487d4b7c8c06)
 
 **Create a New Bug**
