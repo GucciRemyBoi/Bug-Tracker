@@ -1,4 +1,4 @@
-Purpose: To help developers keep track the amount of bugs that is encountered in the development phase. This will include:
+Purpose: To help backend and frontend developers keep track the amount of bugs that is encountered in the development phase. This will include:
 - Creating a new Json file with a key ID number and writing details entered by the developer.
 - Change the status of a bug
 
