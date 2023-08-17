@@ -39,4 +39,5 @@ This function will take info about the bug and change the status of it as well. 
 ![image](https://github.com/GucciRemyBoi/Bug-Tracker/assets/40637569/b4647f9d-9c79-496d-94eb-038383f73993)
 
 **Improving this in the Future**
+
 In the future with more time for research and learning, I would rather use SQL or any other DB language to store bug information instead of Json files. I would also use more advanced features such as a react website with these services that numerous developers can pull bug reports from without having each developer install this code, email the reports or screenshot, etc.
