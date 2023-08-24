@@ -10,7 +10,6 @@ from datetime import datetime
 import json
 import pytz
 
-# Creating a new file called bugs
 bugsDirectory = "bugs"
 
 # Creating the json file with the id # and data
