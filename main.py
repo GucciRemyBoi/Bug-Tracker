@@ -1,7 +1,7 @@
 # Purpose: To Create a Bug Tracking Menu for Developers to Keep Note About Bugs Encountered During Development
 # Author: Lorenz Wilkins
 # Resources: Geeks for Geeks, Python Library
-# Date Modified: August 15th, 2023
+# Date Modified: August 26th, 2023
 
 
 # Importing packages
